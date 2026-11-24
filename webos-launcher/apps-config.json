@@ -1,0 +1,184 @@
+[
+  {
+    "id": "com.webos.app.livetv",
+    "title": "Chương trình phát",
+    "icon": "assets/icon_antenna.png",
+    "folderPath": "/usr/palm/applications/com.webos.app.livetv",
+    "iconColor": "#a3c125"
+  },
+  {
+    "id": "com.webos.app.recordings",
+    "title": "Chương trình đã ghi",
+    "icon": "assets/hd1080/icon.png",
+    "folderPath": "/usr/palm/applications/com.webos.app.recordings",
+    "iconColor": "#c134b9"
+  },
+  {
+    "id": "com.app.cloudphotovideo",
+    "title": "Cloud Photo & Video",
+    "icon": "icon.png",
+    "folderPath": "/media/cryptofs/apps/usr/palm/applications/com.app.cloudphotovideo",
+    "iconColor": "#4446ac"
+  },
+  {
+    "id": "com.webos.app.remoteservice",
+    "title": "Dịch vụ từ xa của LG",
+    "icon": "assets/hd1080/icon.png",
+    "folderPath": "/usr/palm/applications/com.webos.app.remoteservice",
+    "iconColor": "#a21d4d"
+  },
+  {
+    "id": "com.fpt.fptplay",
+    "title": "FPT Play",
+    "icon": "icon.png",
+    "folderPath": "/media/cryptofs/apps/usr/palm/applications/com.fpt.fptplay",
+    "iconColor": "#ffffff"
+  },
+  {
+    "id": "com.gathin.tvhome",
+    "title": "Home",
+    "icon": "icon.png",
+    "folderPath": "/media/developer/apps/usr/palm/applications/com.gathin.tvhome",
+    "iconColor": "#000000"
+  },
+  {
+    "id": "org.webosbrew.hbchannel",
+    "title": "Homebrew Channel",
+    "icon": "assets/icon80.png",
+    "folderPath": "/media/developer/apps/usr/palm/applications/org.webosbrew.hbchannel",
+    "iconColor": "#cf0652"
+  },
+  {
+    "id": "com.webos.app.tvuserguide",
+    "title": "Hướng dẫn sử dụng",
+    "icon": "myAssets/hd1080/icon_userguide.png",
+    "folderPath": "/usr/palm/applications/com.webos.app.tvuserguide",
+    "iconColor": "#ff8a00"
+  },
+  {
+    "id": "com.iq.app.iqiyiapp",
+    "title": "iQIYI",
+    "icon": "resources/iqiyi_logo.png",
+    "folderPath": "/media/cryptofs/apps/usr/palm/applications/com.iq.app.iqiyiapp",
+    "iconColor": "#00dc5a"
+  },
+  {
+    "id": "com.webos.app.accessibility",
+    "title": "K.năng tr.cập",
+    "icon": "assets/hd1080/icon.png",
+    "folderPath": "/usr/palm/applications/com.webos.app.accessibility",
+    "iconColor": "#ff7010"
+  },
+  {
+    "id": "com.mytvb2c.app",
+    "title": "MyTV",
+    "icon": "icon.png",
+    "folderPath": "/media/cryptofs/apps/usr/palm/applications/com.mytvb2c.app",
+    "iconColor": "#ffffff"
+  },
+  {
+    "id": "netflix",
+    "title": "Netflix",
+    "icon": "SMALL_APP_ICON.png",
+    "folderPath": "/media/cryptofs/apps/usr/palm/applications/netflix",
+    "iconColor": "#ffffff"
+  },
+  {
+    "id": "com.webos.app.btspeakerapp",
+    "title": "Phát lại âm thanh Bluetooth",
+    "icon": "icon.png",
+    "folderPath": "/usr/palm/applications/com.webos.app.btspeakerapp",
+    "iconColor": "#15346f"
+  },
+  {
+    "id": "com.webos.app.miracast",
+    "title": "Screen Share",
+    "icon": "assets/hd1080/icon_screenshare.png",
+    "folderPath": "/mnt/otncabi/usr/palm/applications/com.webos.app.miracast",
+    "iconColor": "#2c58b9"
+  },
+  {
+    "id": "spotify-beehive",
+    "title": "Spotify - Nhạc và Podcast",
+    "icon": "icon.png",
+    "folderPath": "/media/cryptofs/apps/usr/palm/applications/spotify-beehive",
+    "iconColor": "#191414"
+  },
+  {
+    "id": "com.webos.app.notificationcenter",
+    "title": "Thông báo",
+    "icon": "icon_notification.png",
+    "folderPath": "/usr/palm/applications/com.webos.app.notificationcenter",
+    "iconColor": "#dfb709"
+  },
+  {
+    "id": "com.webos.app.livemenu",
+    "title": "Thông tin chương trình TV",
+    "icon": "assets/icon.png",
+    "folderPath": "/usr/palm/applications/com.webos.app.livemenu",
+    "iconColor": "#1ec15f"
+  },
+  {
+    "id": "com.webos.app.browser",
+    "title": "Trình duyệt web",
+    "icon": "assets/hd1080/webbrowser_icon.png",
+    "folderPath": "/media/system/apps/usr/palm/applications/com.webos.app.browser",
+    "iconColor": "#FFFFFF"
+  },
+  {
+    "id": "com.webos.app.connectionwizard",
+    "title": "Trình kết nối thiết bị",
+    "icon": "assets/hd1080/icon.png",
+    "folderPath": "/usr/palm/applications/com.webos.app.connectionwizard",
+    "iconColor": "#2c94c4"
+  },
+  {
+    "id": "com.viettel.media.tv360",
+    "title": "TV360",
+    "icon": "icon.png",
+    "folderPath": "/media/cryptofs/apps/usr/palm/applications/com.viettel.media.tv360",
+    "iconColor": "#ed2c25"
+  },
+  {
+    "id": "vieplay.vn",
+    "title": "VieON",
+    "icon": "icon.png",
+    "folderPath": "/media/cryptofs/apps/usr/palm/applications/vieplay.vn",
+    "iconColor": "#0ad418"
+  },
+  {
+    "id": "com.vtvgotv.app",
+    "title": "VTVGo cho TV Thông minh",
+    "icon": "icon.png",
+    "folderPath": "/media/cryptofs/apps/usr/palm/applications/com.vtvgotv.app",
+    "iconColor": "#d41f39"
+  },
+  {
+    "id": "youtube.leanback.v4",
+    "title": "YouTube",
+    "icon": "yt_lg_80x80.png",
+    "folderPath": "/media/cryptofs/apps/usr/palm/applications/youtube.leanback.v4",
+    "iconColor": "#ffffff"
+  },
+  {
+    "id": "com.webos.app.music",
+    "title": "Âm nhạc",
+    "icon": "assets/hd1080/icon.png",
+    "folderPath": "/usr/palm/applications/com.webos.app.music",
+    "iconColor": "#7d53d3"
+  },
+  {
+    "id": "com.webos.app.photovideo",
+    "title": "Ảnh & Video",
+    "icon": "assets/hd1080/icon.png",
+    "folderPath": "/usr/palm/applications/com.webos.app.photovideo",
+    "iconColor": "#7c20d5"
+  },
+  {
+    "id": "com.webos.app.scheduler",
+    "title": "Ứng dụng lập lịch ghi",
+    "icon": "sys-assets/hd1080/icon_scheduler.png",
+    "folderPath": "/usr/palm/applications/com.webos.app.scheduler",
+    "iconColor": "#00a844"
+  }
+]

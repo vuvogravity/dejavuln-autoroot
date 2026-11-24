@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1920, height=1080, initial-scale=1.0">
+<title>VuTV Launcher</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="bg-layer"></div>
+<div id="app">
+    <header id="top-bar">
+        <div class="top-left"><span class="logo">VuTV</span></div>
+        <div class="top-right">
+            <span id="date-display"></span>
+            <span id="time-display"></span>
+        </div>
+    </header>
+    <main id="content">
+        <section class="app-section" id="section-recent">
+            <h2 class="section-title">Gần đây</h2>
+            <div class="app-row" id="recent-apps"></div>
+            <p class="empty-hint" id="recent-empty">Chưa có ứng dụng nào được mở gần đây</p>
+        </section>
+        <section class="app-section" id="section-favorites">
+            <h2 class="section-title">Yêu thích</h2>
+            <div class="app-row" id="favorite-apps"></div>
+            <p class="empty-hint" id="favorites-empty">Nhấn giữ OK (hoặc nút đỏ) để thêm vào yêu thích</p>
+        </section>
+        <section class="app-section" id="section-all">
+            <h2 class="section-title">Tất cả ứng dụng</h2>
+            <div class="app-grid" id="all-apps"></div>
+        </section>
+    </main>
+    <footer id="bottom-bar">
+        <div class="action-item" data-action="refresh" tabindex="0">
+            <span class="action-icon">&#x21BB;</span>
+            <span class="action-label">Làm mới</span>
+        </div>
+        <div class="action-item" data-action="info" tabindex="0">
+            <span class="action-icon">&#x2139;</span>
+            <span class="action-label">Thông tin</span>
+        </div>
+        <div class="action-item" data-action="reboot" tabindex="0">
+            <span class="action-icon">&#x23FB;</span>
+            <span class="action-label">Khởi động lại</span>
+        </div>
+    </footer>
+    <div id="overlay" class="hidden">
+        <div id="modal">
+            <h3 id="modal-title"></h3>
+            <div id="modal-body"></div>
+            <div id="modal-actions">
+                <button id="modal-ok" class="modal-btn primary">OK</button>
+                <button id="modal-cancel" class="modal-btn">Hủy</button>
+            </div>
+        </div>
+    </div>
+    <div id="toast" class="hidden"></div>
+</div>
+<script src="js/app.js"></script>
+</body>
+</html>
